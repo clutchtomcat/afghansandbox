@@ -14,5 +14,4 @@ This is a sandbox mission encompassing the entire Afghanistan map with multiple 
 * AI traffic for ambiance
 
 
-![Alt text](NorthEast.png)
-![Alt text](South-Central.png)
+
