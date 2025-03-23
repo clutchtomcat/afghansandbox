@@ -13,5 +13,7 @@ This is a sandbox mission encompassing the entire Afghanistan map with multiple 
 * Forward operating bases and outposts (templates by PeneCruz)
 * AI traffic for ambiance
 
+![Alt text](NorthEast.png)
+![Alt text](South-Central.png)
 
 
