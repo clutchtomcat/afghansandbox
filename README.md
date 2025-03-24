@@ -2,9 +2,8 @@
 This is a sandbox mission encompassing the entire Afghanistan map with multiple client slots, tankers, and tasks generated via the F10 communications menu.
 
 ## Features Overview
-* 7 areas of operations (AOs)
-* On-demand CAS tasks with AI voiceovers via the F10 menu
-* On-demand strike tasks via the F10 menu
+* On-demand CAS tasks with AI voiceovers
+* On-demand strike tasks
 * On-demand troop transport tasks
 * Dynamic cargo
 * Supercarrier with Airboss script for cyclic operations
