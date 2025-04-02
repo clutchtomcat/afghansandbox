@@ -36,7 +36,7 @@ Five tankers are availalbe. Boom tankers can be commanded to slow down or speed 
 Kneeboards are included in the mission by default. They are also available for download/printing in the GitHub folders.
 
 ## Other features
-* "Strongholds." There are three stronghols marked in red on the map: Payindi, Korengal, and Tora Bora. AAA and MANPADS are known to be in these areas.
+* "Strongholds." There are three strongholds marked in red on the map: Payindi, Korengal, and Tora Bora. AAA and MANPADS are known to be in these areas.
 * "Thorns." These are single insurgents around high-traffic areas that may take potshots at you if you wander into their range. Tactical overheads are recommended when landing.
 
 
